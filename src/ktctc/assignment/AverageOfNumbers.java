@@ -13,5 +13,4 @@ public class AverageOfNumbers {
 		float result = arrsum / n;
 		System.out.println("Average of Given Numbers Is " + result);
 	}
-
 }
